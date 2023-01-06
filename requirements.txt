@@ -144,7 +144,6 @@ sqlparse==0.4.3
 stack-data==0.2.0
 stdlib-list==0.8.0
 streamlit==1.9.2
-TA-Lib @ file:///C:/Users/HP/OneDrive/Desktop/STRETEGIES/TA_Lib-0.4.21-cp39-cp39-win_amd64.whl
 Telethon==1.24.0
 tenacity==8.0.1
 terminado==0.15.0
